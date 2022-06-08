@@ -29,3 +29,11 @@ had_walks.push(true)
 
 # The following function should print "Juno"
 puts dogs[0]
+
+
+# The uniq method removes duplicate elements from an array
+# and returns the whole array
+birth_months = ["May", "August", "March", "May"]
+
+# The resulting array should not have the duplicate of "May"
+birth_months.uniq

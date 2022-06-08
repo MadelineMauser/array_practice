@@ -19,6 +19,13 @@ dog_ages.shift
 # and return the whole array.
 food_prices.unshift(3.40)
 
-# This array method will add true to the end of the array 
+# This array method will add true to the end of the array
 # and return the whole array.
 had_walks.push(true)
+
+
+# Index positions correspond to an element's position
+# in an array and begin counting at 0.
+
+# The following function should print "Juno"
+puts dogs[0]
